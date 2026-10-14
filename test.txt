@@ -21,6 +21,17 @@ SENDGRID_API_KEY=SG.abcdefghijklmnopqrstuvwxyz.1234567890abcdefghijk
 
 # Twilio Auth Token (fake format)
 TWILIO_AUTH_TOKEN=abcdef1234567890abcdef1234567890
+Generic API Key
+API_KEY=abcdefghijklmnopqrstuvwxyz1234567890
+
+# JWT Token (fake)
+JWT_TOKEN=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiZGVtbyJ9.signature
+
+# Private Key Block
+-----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA1234567890abcdefghijklmnopqrstuv
+abcdefghijklmnopqrstuvwxyz1234567890abcdefghijkl
+
 
 
 -----END RSA PRIVATE KEY-----
