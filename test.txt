@@ -1,0 +1,26 @@
+# AWS Access Key (fake)
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE
+
+# GitHub Personal Access Token (fake format)
+GITHUB_TOKEN=ghp_1234567890abcdefghijklmnopqrstuvwxyz
+
+# GitHub Fine-Grained Token (fake format)
+GITHUB_FINE_GRAINED=github_pat_1234567890_abcdefghijklmnopqrstuvwxyz
+
+# Slack Token (fake format)
+SLACK_TOKEN=xoxb-123456789012-123456789012-abcdefghijklmnopqrstuvwx
+
+# OpenAI API Key (fake format)
+OPENAI_API_KEY=sk-proj-abcdefghijklmnopqrstuvwxyz123456789
+
+# Stripe Key (fake format)
+STRIPE_SECRET_KEY=sk_live_abcdefghijklmnopqrstuvwxyz
+
+# SendGrid Key (fake format)
+SENDGRID_API_KEY=SG.abcdefghijklmnopqrstuvwxyz.1234567890abcdefghijk
+
+# Twilio Auth Token (fake format)
+TWILIO_AUTH_TOKEN=abcdef1234567890abcdef1234567890
+
+
+-----END RSA PRIVATE KEY-----
